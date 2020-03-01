@@ -1,7 +1,6 @@
 const express = require('express')
 const router = express.Router()
 const User = require('../models/user')
-
 const mongoose = require('mongoose')
 const db = "mongodb+srv://ruwan:ruwan123@auth-system-eplbx.mongodb.net/test?retryWrites=true&w=majority"
 
