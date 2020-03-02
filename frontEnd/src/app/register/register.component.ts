@@ -12,8 +12,11 @@ export class RegisterComponent implements OnInit {
   registerUserData = {
     email: '',
     password: ''
-  }
+  };
 
+
+
+  // tslint:disable-next-line:variable-name
   constructor(private _auth: AuthService) { }
 
   ngOnInit() {
@@ -24,6 +27,6 @@ export class RegisterComponent implements OnInit {
       .subscribe(
         res => console.log(res),
       err => console.log(err)
-    )
+    );
 
-}
+}}
