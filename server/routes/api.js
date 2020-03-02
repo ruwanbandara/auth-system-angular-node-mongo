@@ -54,37 +54,37 @@ router.get('/events', (req, res) =>{
             "_id": "1",
             "name": "Auto Expo",
             "description": "lorem ipsum",
-            "date": "2020-04-10-23T18:25:43.511Z"
+            "date": "2020-04-13"
         },
         {
             "_id": "2",
             "name": "Auto Expo",
             "description": "lorem ipsum",
-            "date": "2020-04-10-23T18:25:43.511Z"
+            "date": "2020-04-10"
         },
         {
             "_id": "3",
             "name": "Auto Expo",
             "description": "lorem ipsum",
-            "date": "2020-04-10-23T18:25:43.511Z"
+            "date": "2020-04-10"
         },
         {
             "_id": "4",
             "name": "Auto Expo",
             "description": "lorem ipsum",
-            "date": "2020-04-10-23T18:25:43.511Z"
+            "date": "2020-04-10"
         },
         {
             "_id": "5",
             "name": "Auto Expo",
             "description": "lorem ipsum",
-            "date": "2020-04-10-23T18:25:43.511Z"
+            "date": "2020-04-10"
         },
         {
             "_id": "6",
             "name": "Auto Expo",
             "description": "lorem ipsum",
-            "date": "2020-04-10-23T18:25:43.511Z"
+            "date": "2020-04-10"
         }
 
     ]
@@ -96,37 +96,37 @@ router.get('/special', (req, res) =>{
             "_id": "1",
             "name": "Auto Expo",
             "description": "lorem ipsum",
-            "date": "2020-04-10-23T18:25:43.511Z"
+            "date": "2020-04-10"
         },
         {
             "_id": "2",
             "name": "Auto Expo",
             "description": "lorem ipsum",
-            "date": "2020-04-10-23T18:25:43.511Z"
+            "date": "2020-04-10"
         },
         {
             "_id": "3",
             "name": "Auto Expo",
             "description": "lorem ipsum",
-            "date": "2020-04-10-23T18:25:43.511Z"
+            "date": "2020-04-10"
         },
         {
             "_id": "4",
             "name": "Auto Expo",
             "description": "lorem ipsum",
-            "date": "2020-04-10-23T18:25:43.511Z"
+            "date": "2020-04-10"
         },
         {
             "_id": "5",
             "name": "Auto Expo",
             "description": "lorem ipsum",
-            "date": "2020-04-10-23T18:25:43.511Z"
+            "date": "2020-04-10"
         },
         {
             "_id": "6",
             "name": "Auto Expo",
             "description": "lorem ipsum",
-            "date": "2020-04-10-23T18:25:43.511Z"
+            "date": "2020-04-10"
         }
 
     ]
