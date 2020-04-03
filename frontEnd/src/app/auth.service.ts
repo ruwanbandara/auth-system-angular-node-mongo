@@ -24,11 +24,11 @@ export class AuthService {
   loggedIn() {
     return !!localStorage.getItem('token');
   }
-  logoutUser(){
+  logoutUser() {
     localStorage.removeItem('token');
-    this._router.navigate(['/events'])
+    this._router.navigate(['/events']);
   }
-  getToken(){
-    return localStorage.getItem('token')
+  getToken() {
+    return localStorage.getItem('token');
   }
 }
